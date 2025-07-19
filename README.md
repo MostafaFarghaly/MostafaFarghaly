@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi I'm Mostafa Farghaly</h1>
 
-<p align="center">Welcome to my profile! Front-End Developer, Student, and always eager to learn 📚</p>
+<p align="center">Welcome to my profile! Front-End Developer, and always eager to learn 📚</p>
 
 ---
 
@@ -19,8 +19,8 @@
 - 🧠 Learning **UI/UX**, **Tailwind CSS**, and improving **web performance**
 - ✉️ Contact me at: [mostafafarghaly2004@gmail.com](mailto:mostafafarghaly2004@gmail.com)
 
-<p align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding Gif"/>
 </p>
 
 ---
