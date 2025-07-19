@@ -6,7 +6,7 @@
 - 💻 I specialize in **Front-End Development** using **React** and **Next.js**
 - 🎓 I’m studying at **Faculty of Computers & Informatics, Suez Canal University**
 - 🌱 Currently exploring **UI/UX**, **Tailwind CSS**, and **Performance Optimization**
-- 📫 How to reach me: **mostafafarghaly@gmail.com**
+- 📫 How to reach me: **mostafafarghaly2004@gmail.com**
 
 ---
 
@@ -33,8 +33,8 @@
 
 ### 🔗 Connect with me
 
-<p align="center">
+<div align="center">
   <a href="mailto:mostafafarghaly2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/mostafa-farghaly-026760289"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mostafa-farghaly-026760289"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/MostafaFarghaly"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+</div>
