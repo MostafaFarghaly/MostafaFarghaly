@@ -4,14 +4,6 @@
 
 ---
 
-### 🧑‍💼 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MostafaFarghaly&theme=onedark&margin-w=15&no-bg=true" />
-</p>
-
----
-
 ### 🙋‍♂️ About Me
 
 - 🎓 I'm a student at **Faculty of Computers & Informatics, Suez Canal University**
@@ -57,13 +49,6 @@
 
 ---
 
-### 🗂️ GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MostafaFarghaly&theme=dracula" />
-</p>
-
----
 
 ### 💡 Quote
 
