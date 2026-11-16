@@ -1,48 +1,21 @@
-<h1 align="center">👋 Hi, I'm Mostafa Farghaly</h1>
+<h1 align="center">👋 Hi I'm Mostafa Farghaly</h1>
 
 <p align="center">
-  Full Stack Software Engineer 🚀 | Building fast, scalable web applications
+  Full Stack Software Engineer 🚀 | Passionate about building scalable web applications
 </p>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 🎓 Graduate of the **Faculty of Computers & Informatics, Suez Canal University**
-- 💻 Full Stack Developer specializing in **React, Next.js, and Node.js**
-- 🧠 Focused on **UI/UX**, **performance optimization**, and **clean architecture**
-- ⚙️ Experienced in building **REST APIs** and working with **SQL and NoSQL databases**
-- 🌱 Currently working on: **TODO: what you're building or learning**
-- 📫 Reach me at: [mostafafarghaly2004@gmail.com](mailto:mostafafarghaly2004@gmail.com)
-
----
-
-### 🛠️ Tech Stack
+- 🎓 I'm a graduate of **Faculty of Computers & Informatics, Suez Canal University**
+- 💻 Full Stack Developer specialized in **React, Next.js, Node.js**
+- 🧠 Strong focus on **UI/UX**, **performance optimization**, and **clean architecture**
+- ⚙️ Experienced in building **REST APIs** and working with **databases**
+- ✉️ Contact me at: [mostafafarghaly2004@gmail.com](mailto:mostafafarghaly2004@gmail.com)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,postgres,git,github,vscode" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**Project One**](https://github.com/MostafaFarghaly/TODO) | TODO: one-line description | Next.js, Node.js, MongoDB |
-| [**Project Two**](https://github.com/MostafaFarghaly/TODO) | TODO: one-line description | React, Express, SQL |
-| [**Project Three**](https://github.com/MostafaFarghaly/TODO) | TODO: one-line description | TODO |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MostafaFarghaly&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaFarghaly&layout=compact&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MostafaFarghaly&theme=radical" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding Gif"/>
 </p>
 
 ---
@@ -63,4 +36,22 @@
 
 ---
 
-> *"The best way to predict the future is to invent it." – Alan Kay*
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-HTML5 | CSS3 | JavaScript | React | Next.js | TailwindCSS-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js | Express.js-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB | SQL-orange?style=for-the-badge"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MostafaFarghaly&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaFarghaly&theme=radical" />
+</p>
+
+---
+
